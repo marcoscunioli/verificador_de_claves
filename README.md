@@ -21,22 +21,22 @@ El proceso de verificación se realiza mediante varias funciones que evalúan di
    - Método: Utiliza la fórmula de entropía para medir la complejidad de la contraseña.
    - Devolución: Retorna el valor de entropía.
 
-5. Función `calificar_entropia(entropia):
+5. Función calificar_entropia(entropia):
    - Objetivo: Clasificar la entropía en términos de fortaleza de la contraseña.
    - Método: Compara la entropía con umbrales predefinidos.
    - Devolución: Retorna una categoría de fortaleza ("Débil", "Moderada" o "Fuerte").
 
-6. Función `analizar_complejidad_gramatical(contraseña):
+6. Función analizar_complejidad_gramatical(contraseña):
    - Objetivo: Verificar la complejidad gramatical de la contraseña.
    - Método: Comprueba si la contraseña incluye al menos una letra minúscula, una letra mayúscula y un número.
    - Devolución: Retorna un mensaje de sugerencia y la categoría de fortaleza ("Baja" si no cumple con los requisitos).
 
-7. Función `analizar_complejidad_semantica(contraseña):
+7. Función analizar_complejidad_semantica(contraseña):
    - Objetivo: Analizar la complejidad semántica de la contraseña.
    - Método: Busca palabras débiles en la contraseña.
    - Devolución: Retorna un mensaje de sugerencia y la categoría de fortaleza ("Baja" si se encuentran palabras débiles).
 
-8. Función `verificar_contraseña(contraseña):
+8. Función verificar_contraseña(contraseña):
    - Objetivo: Realizar la verificación completa de la contraseña combinando las funciones anteriores.
    - Devolución: Retorna un mensaje indicando si la contraseña es segura y las sugerencias para mejorarla si es necesario.
      
