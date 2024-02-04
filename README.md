@@ -1,3 +1,9 @@
+El Script de manera automática incluye la detección de:
+863 palabras de uso común (en español e ingles)
+383 patrones de escritura débiles (en español e ingles)
+245 palabras de contraseñas de diccionario (en español e ingles, las más usadas hasta el año 2023)
+232 palabras con complejidad semantica débiles (en español e ingles)
+
 Este script en Python tiene como objetivo verificar la fortaleza de una contraseña proporcionada por el usuario.
 El proceso de verificación se realiza mediante varias funciones que evalúan diferentes aspectos de la contraseña. Vamos a analizar detalladamente cada función:
 
@@ -40,5 +46,5 @@ El proceso de verificación se realiza mediante varias funciones que evalúan di
    - Objetivo: Realizar la verificación completa de la contraseña combinando las funciones anteriores.
    - Devolución: Retorna un mensaje indicando si la contraseña es segura y las sugerencias para mejorarla si es necesario.
      
-Este script proporciona una herramienta completa para evaluar la fortaleza de una contraseña, teniendo en cuenta la longitud,
+El script proporciona una herramienta completa para evaluar la fortaleza de una contraseña, teniendo en cuenta la longitud,
 la entropía, la presencia de palabras comunes, patrones débiles y contraseñas conocidas.
