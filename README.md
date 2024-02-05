@@ -1,3 +1,4 @@
+# VERIFICADOR DE CLAVES AUTOMÁTICO
 El Script de manera automática incluye la detección de:
 863 palabras de uso común (en español e ingles)
 383 patrones de escritura débiles (en español e ingles)
