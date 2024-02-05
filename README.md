@@ -7,6 +7,7 @@ El Script de manera automática incluye la detección de:
 
 
 ![02](https://github.com/marcoscunioli/verificador_de_claves/assets/158846893/cf7bb235-1e1b-4585-b64d-a6ea43df272e)
+![03](https://github.com/marcoscunioli/verificador_de_claves/assets/158846893/695d21d0-b8bc-4e9b-8971-2fdaae1d7876)
 
 
 Este script en Python tiene como objetivo verificar la fortaleza de una contraseña proporcionada por el usuario.
