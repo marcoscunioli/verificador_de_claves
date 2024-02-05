@@ -5,6 +5,10 @@ El Script de manera automática incluye la detección de:
 245 palabras de contraseñas de diccionario (en español e ingles, las más usadas hasta el año 2023)
 232 palabras con complejidad semantica débiles (en español e ingles)
 
+
+![02](https://github.com/marcoscunioli/verificador_de_claves/assets/158846893/cf7bb235-1e1b-4585-b64d-a6ea43df272e)
+
+
 Este script en Python tiene como objetivo verificar la fortaleza de una contraseña proporcionada por el usuario.
 El proceso de verificación se realiza mediante varias funciones que evalúan diferentes aspectos de la contraseña. Vamos a analizar detalladamente cada función:
 
